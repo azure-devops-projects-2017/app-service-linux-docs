@@ -1,3 +1,5 @@
+#Gabbar click
+HowTo/Configure ACR with Managed Identities/cli_system-assigned_managed_identities.md
 # App Service on Linux
 
 ## Frequently Asked Questions
