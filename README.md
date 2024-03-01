@@ -1,5 +1,5 @@
 #Gabbar click
-HowTo/Configure ACR with Managed Identities/cli_system-assigned_managed_identities.md
+https://github.com/Azure/app-service-linux-docs/blob/master/HowTo/Configure%20ACR%20with%20Managed%20Identities/cli_system-assigned_managed_identities.md
 # App Service on Linux
 
 ## Frequently Asked Questions
